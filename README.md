@@ -1,3 +1,32 @@
+#### React Application Environment Setup
+
+
+
+npm install webpack –save
+npm install webpack-dev-server --save
+npm install webpack-cli --save
+
+
+Tutorial  - https://medium.com/@lavitr01051977/make-your-first-call-to-api-using-redux-saga-15aa995df5b6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
